@@ -1,0 +1,9 @@
+fastapi        # web framework for building APIs
+uvicorn         # ASGI server for FastAPI
+httpx           # HTTP client for async requests
+pydantic       # data validation and settings management
+python-dotenv    # environment variable management
+pytest           # testing framework
+isort            # import sorter
+pytest-cov       # code coverage for test runs
+python-multipart # if you’ll ever accept file uploads

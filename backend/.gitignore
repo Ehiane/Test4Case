@@ -1,0 +1,66 @@
+# ---------------------------
+# Python
+# ---------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.eggs/
+.Python
+dist/
+build/
+pip-wheel-metadata/
+
+# ---------------------------
+# Virtual Environments
+# ---------------------------
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ---------------------------
+# IDEs & Editors
+# ---------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---------------------------
+# Testing & Coverage
+# ---------------------------
+.pytest_cache/
+.coverage
+.tox/
+.nox/
+htmlcov/
+
+# ---------------------------
+# Environment Variables
+# ---------------------------
+.env
+.env.local
+.env.*.local
+
+# ---------------------------
+# OS Files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Logs & Debug
+# ---------------------------
+*.log
+logs/
+__debug__/
+
+# ---------------------------
+# Byte-compiled or cache
+# ---------------------------
+*.pyo
+*.pyd
